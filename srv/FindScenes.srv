@@ -1,0 +1,4 @@
+asr_msgs/AsrObject[] objects
+---
+std_msgs/UInt8 result_size
+string output

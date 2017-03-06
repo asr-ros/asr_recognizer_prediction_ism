@@ -1,0 +1,1404 @@
+<object id="0" name="CoffeeBox">
+	<point type="Fix">
+                <posX>0.1</posX>
+                <posY>0.0</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>1.0</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>0-99</visible>
+                <from>0</from>
+                <to>99</to>
+        </point>
+	<point type="Fix">
+                <posX>0.1</posX>
+                <posY>0.0</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.7071067811865475</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>100-199</visible>
+                <from>100</from>
+                <to>199</to>
+        </point>
+	<point type="Fix">
+                <posX>0.1</posX>
+                <posY>0.0</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.5</orientW>
+                <orientX>0.5</orientX>
+                <orientY>-0.5</orientY>
+                <orientZ>0.5</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>200-299</visible>
+                <from>200</from>
+                <to>299</to>
+        </point>
+	<point type="Fix">
+                <posX>0.1</posX>
+                <posY>0.0</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.7071067811865476</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>300-399</visible>
+                <from>300</from>
+                <to>399</to>
+	</point>
+</object>
+<object id="0" name="Vitalis">
+  <point type="Fix">
+                <posX>0.15</posX>
+                <posY>0.0</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>1.0</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>0-99</visible>
+                <from>0</from>
+                <to>99</to>
+        </point>
+	<point type="Fix">
+                <posX>0.15</posX>
+                <posY>0.0</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.7071067811865475</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>100-199</visible>
+                <from>100</from>
+                <to>199</to>
+        </point>
+	<point type="Fix">
+                <posX>0.15</posX>
+                <posY>0.0</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.5</orientW>
+                <orientX>0.5</orientX>
+                <orientY>-0.5</orientY>
+                <orientZ>0.5</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>200-299</visible>
+                <from>200</from>
+                <to>299</to>
+        </point>
+	<point type="Fix">
+                <posX>0.15</posX>
+                <posY>0.0</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.7071067811865476</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>300-399</visible>
+                <from>300</from>
+                <to>399</to>
+	</point>
+</object>
+<object id="0" name="Amicelli">
+	<point type="Fix">
+                <posX>0.2</posX>
+                <posY>0.0</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>1.0</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>0-99</visible>
+                <from>0</from>
+                <to>99</to>
+        </point>
+	<point type="Fix">
+                <posX>0.2</posX>
+                <posY>0.0</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.7071067811865475</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>100-199</visible>
+                <from>100</from>
+                <to>199</to>
+        </point>
+	<point type="Fix">
+                <posX>0.2</posX>
+                <posY>0.0</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.5</orientW>
+                <orientX>0.5</orientX>
+                <orientY>-0.5</orientY>
+                <orientZ>0.5</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>200-299</visible>
+                <from>200</from>
+                <to>299</to>
+        </point>
+	<point type="Fix">
+                <posX>0.2</posX>
+                <posY>0.0</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.7071067811865476</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>300-399</visible>
+                <from>300</from>
+                <to>399</to>
+	</point>
+</object>
+<object id="0" name="Granini">
+<point type="Fix">
+                <posX>0.25</posX>
+                <posY>0.05</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>1.0</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>0-99</visible>
+                <from>0</from>
+                <to>99</to>
+        </point>
+	<point type="Fix">
+                <posX>0.25</posX>
+                <posY>0.05</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.7071067811865475</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>100-199</visible>
+                <from>100</from>
+                <to>199</to>
+        </point>
+	<point type="Fix">
+                <posX>0.25</posX>
+                <posY>0.05</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.5</orientW>
+                <orientX>0.5</orientX>
+                <orientY>-0.5</orientY>
+                <orientZ>0.5</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>200-299</visible>
+                <from>200</from>
+                <to>299</to>
+        </point>
+	<point type="Fix">
+                <posX>0.25</posX>
+                <posY>0.05</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.7071067811865476</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>300-399</visible>
+                <from>300</from>
+                <to>399</to>
+	</point>
+</object>
+<object id="0" name="Applejuice">
+   <point type="Fix">
+                <posX>0.3</posX>
+                <posY>0.1</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>1.0</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>0-99</visible>
+                <from>0</from>
+                <to>99</to>
+        </point>
+	<point type="Fix">
+                <posX>0.3</posX>
+                <posY>0.1</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.7071067811865475</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>100-199</visible>
+                <from>100</from>
+                <to>199</to>
+        </point>
+	<point type="Fix">
+                <posX>0.3</posX>
+                <posY>0.1</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.5</orientW>
+                <orientX>0.5</orientX>
+                <orientY>-0.5</orientY>
+                <orientZ>0.5</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>200-299</visible>
+                <from>200</from>
+                <to>299</to>
+        </point>
+	<point type="Fix">
+                <posX>0.3</posX>
+                <posY>0.1</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.7071067811865476</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>300-399</visible>
+                <from>300</from>
+                <to>399</to>
+	</point>
+</object>
+<object id="0" name="BadReichenhaller">
+  <point type="Fix">
+                <posX>0.3</posX>
+                <posY>0.15</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>1.0</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>0-99</visible>
+                <from>0</from>
+                <to>99</to>
+        </point>
+	<point type="Fix">
+                <posX>0.3</posX>
+                <posY>0.15</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.7071067811865475</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>100-199</visible>
+                <from>100</from>
+                <to>199</to>
+        </point>
+	<point type="Fix">
+                <posX>0.3</posX>
+                <posY>0.15</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.5</orientW>
+                <orientX>0.5</orientX>
+                <orientY>-0.5</orientY>
+                <orientZ>0.5</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>200-299</visible>
+                <from>200</from>
+                <to>299</to>
+        </point>
+	<point type="Fix">
+                <posX>0.3</posX>
+                <posY>0.15</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.7071067811865476</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>300-399</visible>
+                <from>300</from>
+                <to>399</to>
+	</point>
+</object>
+<object id="0" name="BookPfeifer">  
+  <point type="Fix">
+                <posX>0.3</posX>
+                <posY>0.2</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>1.0</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>0-99</visible>
+                <from>0</from>
+                <to>99</to>
+        </point>
+	<point type="Fix">
+                <posX>0.3</posX>
+                <posY>0.2</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.7071067811865475</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>100-199</visible>
+                <from>100</from>
+                <to>199</to>
+        </point>
+	<point type="Fix">
+                <posX>0.3</posX>
+                <posY>0.2</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.5</orientW>
+                <orientX>0.5</orientX>
+                <orientY>-0.5</orientY>
+                <orientZ>0.5</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>200-299</visible>
+                <from>200</from>
+                <to>299</to>
+        </point>
+	<point type="Fix">
+                <posX>0.3</posX>
+                <posY>0.2</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.7071067811865476</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>300-399</visible>
+                <from>300</from>
+                <to>399</to>
+	</point>
+</object>
+<object id="0" name="Burti">  
+  <point type="Fix">
+                <posX>0.25</posX>
+                <posY>0.25</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>1.0</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>0-99</visible>
+                <from>0</from>
+                <to>99</to>
+        </point>
+	<point type="Fix">
+                <posX>0.25</posX>
+                <posY>0.25</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.7071067811865475</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>100-199</visible>
+                <from>100</from>
+                <to>199</to>
+        </point>
+	<point type="Fix">
+                <posX>0.25</posX>
+                <posY>0.25</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.5</orientW>
+                <orientX>0.5</orientX>
+                <orientY>-0.5</orientY>
+                <orientZ>0.5</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>200-299</visible>
+                <from>200</from>
+                <to>299</to>
+        </point>
+	<point type="Fix">
+                <posX>0.25</posX>
+                <posY>0.25</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.7071067811865476</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>300-399</visible>
+                <from>300</from>
+                <to>399</to>
+	</point>
+</object>
+<object id="0" name="Calgonit">  
+  <point type="Fix">
+                <posX>0.2</posX>
+                <posY>0.3</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>1.0</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>0-99</visible>
+                <from>0</from>
+                <to>99</to>
+        </point>
+	<point type="Fix">
+                <posX>0.2</posX>
+                <posY>0.3</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.7071067811865475</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>100-199</visible>
+                <from>100</from>
+                <to>199</to>
+        </point>
+	<point type="Fix">
+                <posX>0.2</posX>
+                <posY>0.3</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.5</orientW>
+                <orientX>0.5</orientX>
+                <orientY>-0.5</orientY>
+                <orientZ>0.5</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>200-299</visible>
+                <from>200</from>
+                <to>299</to>
+        </point>
+	<point type="Fix">
+                <posX>0.2</posX>
+                <posY>0.3</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.7071067811865476</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>300-399</visible>
+                <from>300</from>
+                <to>399</to>
+	</point>
+</object>
+<object id="0" name="CeylonTea">  
+  <point type="Fix">
+                <posX>0.15</posX>
+                <posY>0.3</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>1.0</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>0-99</visible>
+                <from>0</from>
+                <to>99</to>
+        </point>
+	<point type="Fix">
+                <posX>0.15</posX>
+                <posY>0.3</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.7071067811865475</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>100-199</visible>
+                <from>100</from>
+                <to>199</to>
+        </point>
+	<point type="Fix">
+                <posX>0.15</posX>
+                <posY>0.3</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.5</orientW>
+                <orientX>0.5</orientX>
+                <orientY>-0.5</orientY>
+                <orientZ>0.5</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>200-299</visible>
+                <from>200</from>
+                <to>299</to>
+        </point>
+	<point type="Fix">
+                <posX>0.15</posX>
+                <posY>0.3</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.7071067811865476</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>300-399</visible>
+                <from>300</from>
+                <to>399</to>
+	</point>
+</object>
+<object id="0" name="Chocolates">  
+  <point type="Fix">
+                <posX>0.15</posX>
+                <posY>0.3</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>1.0</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>0-99</visible>
+                <from>0</from>
+                <to>99</to>
+        </point>
+	<point type="Fix">
+                <posX>0.15</posX>
+                <posY>0.3</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.7071067811865475</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>100-199</visible>
+                <from>100</from>
+                <to>199</to>
+        </point>
+	<point type="Fix">
+                <posX>0.15</posX>
+                <posY>0.3</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.5</orientW>
+                <orientX>0.5</orientX>
+                <orientY>-0.5</orientY>
+                <orientZ>0.5</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>200-299</visible>
+                <from>200</from>
+                <to>299</to>
+        </point>
+	<point type="Fix">
+                <posX>0.15</posX>
+                <posY>0.3</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.7071067811865476</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>300-399</visible>
+                <from>300</from>
+                <to>399</to>
+	</point>
+</object>
+<object id="0" name="CoffeeFilters2">  
+  <point type="Fix">
+                <posX>0.1</posX>
+                <posY>0.3</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>1.0</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>0-99</visible>
+                <from>0</from>
+                <to>99</to>
+        </point>
+	<point type="Fix">
+                <posX>0.1</posX>
+                <posY>0.3</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.7071067811865475</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>100-199</visible>
+                <from>100</from>
+                <to>199</to>
+        </point>
+	<point type="Fix">
+                <posX>0.1</posX>
+                <posY>0.3</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.5</orientW>
+                <orientX>0.5</orientX>
+                <orientY>-0.5</orientY>
+                <orientZ>0.5</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>200-299</visible>
+                <from>200</from>
+                <to>299</to>
+        </point>
+	<point type="Fix">
+                <posX>0.1</posX>
+                <posY>0.3</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.7071067811865476</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>300-399</visible>
+                <from>300</from>
+                <to>399</to>
+	</point>
+</object>
+<object id="0" name="Knaeckebrot">  
+  <point type="Fix">
+                <posX>0.15</posX>
+                <posY>0.25</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>1.0</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>0-99</visible>
+                <from>0</from>
+                <to>99</to>
+        </point>
+	<point type="Fix">
+                <posX>0.15</posX>
+                <posY>0.25</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.7071067811865475</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>100-199</visible>
+                <from>100</from>
+                <to>199</to>
+        </point>
+	<point type="Fix">
+                <posX>0.15</posX>
+                <posY>0.25</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.5</orientW>
+                <orientX>0.5</orientX>
+                <orientY>-0.5</orientY>
+                <orientZ>0.5</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>200-299</visible>
+                <from>200</from>
+                <to>299</to>
+        </point>
+	<point type="Fix">
+                <posX>0.05</posX>
+                <posY>0.25</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.7071067811865476</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>300-399</visible>
+                <from>300</from>
+                <to>399</to>
+	</point>
+</object>
+<object id="0" name="MashedPotatoes">
+    <point type="Fix">
+                <posX>0.0</posX>
+                <posY>0.2</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>1.0</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>0-99</visible>
+                <from>0</from>
+                <to>99</to>
+        </point>
+	<point type="Fix">
+                <posX>0.0</posX>
+                <posY>0.2</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.7071067811865475</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>100-199</visible>
+                <from>100</from>
+                <to>199</to>
+        </point>
+	<point type="Fix">
+                <posX>0.0</posX>
+                <posY>0.2</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.5</orientW>
+                <orientX>0.5</orientX>
+                <orientY>-0.5</orientY>
+                <orientZ>0.5</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>200-299</visible>
+                <from>200</from>
+                <to>299</to>
+        </point>
+	<point type="Fix">
+                <posX>0.0</posX>
+                <posY>0.2</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.7071067811865476</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>300-399</visible>
+                <from>300</from>
+                <to>399</to>
+	</point>
+</object>
+<object id="0" name="Ricefit"> 
+  <point type="Fix">
+                <posX>0.0</posX>
+                <posY>0.15</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>1.0</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>0-99</visible>
+                <from>0</from>
+                <to>99</to>
+        </point>
+	<point type="Fix">
+                <posX>0.0</posX>
+                <posY>0.15</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.7071067811865475</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>100-199</visible>
+                <from>100</from>
+                <to>199</to>
+        </point>
+	<point type="Fix">
+                <posX>0.0</posX>
+                <posY>0.15</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.5</orientW>
+                <orientX>0.5</orientX>
+                <orientY>-0.5</orientY>
+                <orientZ>0.5</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>200-299</visible>
+                <from>200</from>
+                <to>299</to>
+        </point>
+	<point type="Fix">
+                <posX>0.0</posX>
+                <posY>0.15</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.7071067811865476</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>300-399</visible>
+                <from>300</from>
+                <to>399</to>
+	</point>
+</object>
+<object id="0" name="SalzEckig">  
+  <point type="Fix">
+                <posX>0.0</posX>
+                <posY>0.1</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>1.0</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>0-99</visible>
+                <from>0</from>
+                <to>99</to>
+        </point>
+	<point type="Fix">
+                <posX>0.0</posX>
+                <posY>0.1</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.7071067811865475</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>100-199</visible>
+                <from>100</from>
+                <to>199</to>
+        </point>
+	<point type="Fix">
+                <posX>0.0</posX>
+                <posY>0.1</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.5</orientW>
+                <orientX>0.5</orientX>
+                <orientY>-0.5</orientY>
+                <orientZ>0.5</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>200-299</visible>
+                <from>200</from>
+                <to>299</to>
+        </point>
+	<point type="Fix">
+                <posX>0.0</posX>
+                <posY>0.1</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.7071067811865476</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>300-399</visible>
+                <from>300</from>
+                <to>399</to>
+	</point>
+</object>
+<object id="0" name="SalzGelbRund">  
+  <point type="Fix">
+                <posX>0.05</posX>
+                <posY>0.05</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>1.0</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>0-99</visible>
+                <from>0</from>
+                <to>99</to>
+        </point>
+	<point type="Fix">
+                <posX>0.05</posX>
+                <posY>0.05</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.7071067811865475</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>100-199</visible>
+                <from>100</from>
+                <to>199</to>
+        </point>
+	<point type="Fix">
+                <posX>0.05</posX>
+                <posY>0.05</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.5</orientW>
+                <orientX>0.5</orientX>
+                <orientY>-0.5</orientY>
+                <orientZ>0.5</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>200-299</visible>
+                <from>200</from>
+                <to>299</to>
+        </point>
+	<point type="Fix">
+                <posX>0.05</posX>
+                <posY>0.05</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.7071067811865476</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>300-399</visible>
+                <from>300</from>
+                <to>399</to>
+	</point>
+</object>
+<object id="0" name="Smacks">  
+<point type="Fix">
+                <posX>0.15</posX>
+                <posY>0.15</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>1.0</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>0-99</visible>
+                <from>0</from>
+                <to>99</to>
+        </point>
+	<point type="Fix">
+                <posX>0.15</posX>
+                <posY>0.15</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.7071067811865475</orientY>
+                <orientZ>0.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>100-199</visible>
+                <from>100</from>
+                <to>199</to>
+        </point>
+	<point type="Fix">
+                <posX>0.15</posX>
+                <posY>0.15</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.5</orientW>
+                <orientX>0.5</orientX>
+                <orientY>-0.5</orientY>
+                <orientZ>0.5</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>200-299</visible>
+                <from>200</from>
+                <to>299</to>
+        </point>
+	<point type="Fix">
+                <posX>0.15</posX>
+                <posY>0.15</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.7071067811865476</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>0.7071067811865476</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>300-399</visible>
+                <from>300</from>
+                <to>399</to>
+	</point>  
+</object>

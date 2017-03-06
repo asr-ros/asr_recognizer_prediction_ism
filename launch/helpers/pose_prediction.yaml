@@ -1,0 +1,25 @@
+########################### Pose Prediction ########################### 
+#Factor to reduce generated results.
+predictionGenerationFactor: 1.0
+
+
+########################### Resampler ###########################
+# Whether to choose an equal number of recognition results for each scene present in shared memory before employing importance sampling on them.
+# This equal number corresponds to the minimal number of results per scene.
+equal_results_number: true
+# Number of recognition results among n best recognition results that importance sampling is going to draw.
+importance_resampled_size: 20
+
+
+########################### Service Clients ###########################
+foundObjectClientName:          /env/asr_world_model/get_found_object_list
+########################### Service Server ###########################
+PointCloudServerName:           get_point_cloud
+
+
+########################### Pose Prediction Visualization ###########################
+#Predicted object poses as spheres with arrows from scene references pointing to them.
+posePredictionMarkersPublisherName:       /pose_prediction_results_visualization
+#All sampled scene recognition results currently used for pose prediction.
+sceneMarkersPosePredictionPublisherName:  /ism_results_for_pose_prediction_viz
+latched:                                  false

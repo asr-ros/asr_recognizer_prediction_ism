@@ -1,0 +1,47 @@
+<object id="0" name="Smacks">
+        <point type="Fix">
+                <posX>0.0</posX>
+                <posY>0.0</posY>
+                <posZ>0.0</posZ>
+
+                <orientW>0.0</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>1.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>0-19</visible>
+                <from>0</from>
+                <to>19</to>
+        </point>
+</object>
+<object id="0" name="CoffeeBox">
+        <point type="Fix">
+                <posX>0.5</posX>
+                <posY>0.5</posY>
+                <posZ>0.5</posZ>
+
+                <orientW>0.0</orientW>
+                <orientX>0.0</orientX>
+                <orientY>0.0</orientY>
+                <orientZ>1.0</orientZ>
+
+                <orientCalcType>Fix</orientCalcType>
+
+                <posErr>0.0001</posErr>
+                <orientErr>0.00001</orientErr>
+
+                <visible>0-19</visible>
+                <from>0</from>
+                <to>19</to>
+        </point>
+</object>
+
+
+
+
+

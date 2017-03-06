@@ -1,0 +1,34 @@
+PointCloudServerName:                     get_point_cloud
+foundObjectClientName:                    /env/asr_world_model/get_found_object_list
+toggleVisualizationServerName:            recognizer_prediction_toggle_visualization
+togglePosePredictorServerName:            toggle_predictor
+
+#Pose Prediction
+########################### Shared memory ###########################
+sharedMemoryName:                         SharedMemory
+sharedVectorName:                         MyVector
+mutexName:                                resultsMutex
+
+########################### Sampling ###########################
+best_recognition_result_extraction_number:  11
+importance_resampled_size:                  9
+
+
+########################### Visualization ###########################
+enableVisualization:                      true
+latched:                                  true
+arrowLifeTime:                            0
+pointLifeTime:                            0
+referenceRadius:                          0.025
+pointRadius:                              0.02
+arrowScaleX:                              0.006
+arrowScaleY:                              0.006
+arrowScaleZ:                              0.006
+colorStepSize:                            30
+
+sceneMarkersSceneRecognitionPublisherName: /ism_results_visualization
+
+baseFrame:                                /map
+
+#ISM
+markerLifetime:                           0

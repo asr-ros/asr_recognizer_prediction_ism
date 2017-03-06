@@ -1,0 +1,17 @@
+CoffeeBox,Vitalis;0
+Amicelli,0;1
+Granini,1;2
+Applejuice,2;3
+BadReichenhaller,3;4
+BookPfeifer,4;5
+Burti,5;6
+Calgonit,6;7
+CeylonTea,7;8
+Chocolates,8;9
+CoffeeFilters2,9;10
+Knaeckebrot,10;11
+MashedPotatoes,11;12
+Ricefit,12;13
+SalzEckig,13;14
+SalzGelbRund,14;15
+Smacks,15;16

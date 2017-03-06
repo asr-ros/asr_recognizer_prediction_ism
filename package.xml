@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<package>
+  <name>asr_recognizer_prediction_ism</name>
+  <version>1.0.0</version>
+  <description>
+    This package contains a combination of pose prediction and ISM. 
+    It provides a (sevice) interface for the ism scene detection and visualization and contains the pose prediction logic for ISM scene detection.
+    The reason to combine those modules in this package was to avoid creating ROS messages from the ISM classes. It enables us to easily copy ISM scene detection results to the pose prediction.
+  </description>
+  <author>Aumann Florian, Heller Florian, Hutmacher Robin, Meißner Pascal, Stöckle Patrick, Stroh Daniel</author>
+  <maintainer email="asr-ros@lists.kit.edu">Meißner Pascal</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>message_generation</build_depend>
+  <build_depend>asr_lib_ism</build_depend>
+  <build_depend>asr_msgs</build_depend>
+  <build_depend>visualization_msgs</build_depend>
+  <build_depend>asr_ism_visualizations</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_depend>geometry_msgs</build_depend>
+  <build_depend>roslib</build_depend>
+  <build_depend>cmake_modules</build_depend>
+  <build_depend>asr_world_model</build_depend>
+  <build_depend>std_srvs</build_depend>
+  <build_depend>asr_lib_pose_prediction_ism</build_depend>
+  <build_depend>asr_object_database</build_depend>
+ 
+  <run_depend>cmake_modules</run_depend>
+  <run_depend>asr_lib_pose_prediction_ism</run_depend>
+  <run_depend>asr_lib_ism</run_depend>
+  <run_depend>asr_ism_visualizations</run_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>message_runtime</run_depend>
+  <run_depend>geometry_msgs</run_depend>
+  <run_depend>asr_msgs</run_depend>
+  <run_depend>visualization_msgs</run_depend>
+  <run_depend>roslib</run_depend>
+  <run_depend>asr_world_model</run_depend>
+  <run_depend>std_msgs</run_depend>
+  <run_depend>std_srvs</run_depend>
+  <run_depend>asr_object_database</run_depend>
+
+</package>

@@ -1,0 +1,17 @@
+pattern0_sub0,Vitalis
+pattern0_sub1,Amicelli
+pattern0_sub2,Granini
+pattern0_sub3,Applejuice
+pattern0_sub4,BadReichenhaller
+pattern0_sub5,Bookpfeifer
+pattern0_sub6,Burti
+pattern0_sub7,Calgonit
+pattern0_sub8,CeylonTea
+pattern0_sub9,Chocolates
+pattern0_sub10,CoffeeFilters2
+pattern0_sub11,Knaeckebrot
+pattern0_sub12,Mashedpotatoes
+pattern0_sub13,Ricefit
+pattern0_sub14,SalzEckig
+pattern0_sub15,SalzGelbRund
+pattern0,Smacks

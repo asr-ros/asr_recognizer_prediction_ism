@@ -1,0 +1,47 @@
+########################### Scene Recognition ###########################
+#Sqlite DB, containing recorded object configurations that are transformed to model object configurations in an ism tree during ism learning in this node.
+# uncomment the following line and add your desired database PATH and DBNAME.
+#dbfilename: PATH/DBNAME.sqlite
+
+#Which rater to rate/score an recognition result should be used.
+#0 = SimpleRater: conisders only if certain conditions are met and rate it with 1 if conditions are met else with 0. 
+#1 = APORater: consider appearance, position and orientation for the rating. The score/rate is in [0,1].
+raterType : 1
+
+#Frame to which incoming object messages are transformed. Used to unify their coordinate frames.
+baseFrame:  /map
+step: 0.1
+
+#Threshold for the maximum processed number of object sets from combining input object pose samples. Above, only measured poses for input objects are processed.
+#Prevents combination explosion when enough data is available to shut off pose sample processing.
+#Should be set to (#SamplesFromWorldModel)^(#InputObjects), you want to process.
+objectSetMaxCount : 729     #27^2
+
+## Options for rotation invariant objects:
+#Whether the object orientation should be rotated to the baseFrame or to Object.
+# mode 0: deactivated, mode 1: rotationFrame, mode 2: rotationObject
+enableRotationMode: 1
+# Defines the rotation frame. The rotation only takes place if baseFrame == rotationFrame.
+rotationFrame: /map
+# Defines the rotation object.
+rotationObjectType: marker_3
+# Please write number in quotation marks to e.g. preserve leading zeros.
+rotationObjectId: "052052051100"
+
+
+########################### sensitivity ########################### 
+#Parameters for recognition:
+#bin_size: 0.10 # - Story 1
+bin_size: 0.25 # - Story 2
+
+maxProjectionAngleDeviation: 30
+
+########################### Scene Recognition Visualization #########################
+#Time which marker is displayed
+markerLifetime: 0
+#Where to show our visualization results.
+sceneMarkersSceneRecognitionPublisherName: /ism_results_visualization
+
+########################### Service Clients ###########################
+vizSamplesClientName:           /env/asr_world_model/visualize_sampled_poses
+pushCompletePatternsName:       /env/asr_world_model/push_complete_patterns
