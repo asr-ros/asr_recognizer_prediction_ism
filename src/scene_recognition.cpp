@@ -215,7 +215,7 @@ void SceneRecognition::constructPatternObjectMapping(){
 
 }
 
-bool SceneRecognition::processFindScenesServiceCall(FindScenes::Request &request, FindScenes::Response &response)
+bool SceneRecognition::processFindScenesServiceCall(asr_recognizer_prediction_ism::FindScenes::Request &request, asr_recognizer_prediction_ism::FindScenes::Response &response)
 {
     ROS_INFO("\n==================================================\n");
     ROS_INFO("Callback SceneRecognition::processFindScenesServiceCall() is called.");
@@ -488,7 +488,7 @@ void SceneRecognition::deleteAllNewRR(){
 }
 
 
-bool SceneRecognition::setLogFilePathServiceCall(SetLogDir::Request &request, SetLogDir::Response &response)
+bool SceneRecognition::setLogFilePathServiceCall(asr_recognizer_prediction_ism::SetLogDir::Request &request, asr_recognizer_prediction_ism::SetLogDir::Response &response)
 {
     if (boost::filesystem::exists(request.log_dir_path))
     {
