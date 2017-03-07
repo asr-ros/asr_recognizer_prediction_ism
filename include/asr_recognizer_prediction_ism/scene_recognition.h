@@ -136,7 +136,7 @@ namespace recognizer_prediction_ism
      * @param response Returns whether scenes are found.
      * @return
      */
-    bool processFindScenesServiceCall(FindScenes::Request &request, FindScenes::Response &response);
+    bool processFindScenesServiceCall(asr_recognizer_prediction_ism::FindScenes::Request &request, asr_recognizer_prediction_ism::FindScenes::Response &response);
 
     /**
      * @brief processSetLogDirServiceCall Receives service call where to write object constellations, used for scene recognition.
@@ -144,7 +144,7 @@ namespace recognizer_prediction_ism
      * @param response
      * @return
      */
-    bool setLogFilePathServiceCall(SetLogDir::Request &request, SetLogDir::Response &response);
+    bool setLogFilePathServiceCall(asr_recognizer_prediction_ism::SetLogDir::Request &request, asr_recognizer_prediction_ism::SetLogDir::Response &response);
 
     /**
      * @brief processToggleVisualizationServiceCall Toggle the visualization via service call.
