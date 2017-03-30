@@ -373,7 +373,7 @@ bool SceneRecognition::processFindScenesServiceCall(asr_recognizer_prediction_is
             ROS_DEBUG_NAMED("SceneRecognition", "Flushed visualization for scene recognition.");
         }
 
-        sortBestRRperScene();
+        sortBestRRperScene(output);
 
         if (is_visualization_active_){
             res_visualizer_->publishCollectedMarkers();
@@ -384,6 +384,9 @@ bool SceneRecognition::processFindScenesServiceCall(asr_recognizer_prediction_is
     std_msgs::UInt8 result_size;
     result_size.data = recognition_results.size();
     response.result_size = result_size;
+
+    ROS_INFO_STREAM("OUT: "<< output.str());
+
     response.output = output.str();
 
     ROS_INFO("\n==================================================\n");
@@ -438,7 +441,7 @@ void SceneRecognition::filterIncompleteRR(std::vector<ISM::RecognitionResultPtr>
 }
 
 
-void SceneRecognition::sortBestRRperScene(){
+void SceneRecognition::sortBestRRperScene(std::stringstream& output){
     set<string> remaining_pattern_names = unique_pattern_names_;
     // resultsForVisualization are sorted now.
     // Pick best result of incomplete scenes per scene and viz it.
@@ -447,7 +450,7 @@ void SceneRecognition::sortBestRRperScene(){
         const string current_pattern_name = recognition_result_ptr->patternName;
         if (remaining_pattern_names.find(current_pattern_name) != remaining_pattern_names.end())
         {
-            //output << endl << recognition_result_ptr << endl;
+            output << endl << recognition_result_ptr << endl;
             if (is_visualization_active_) {
 
                 object_model_visualizer_->drawObjectModels(extractRealObjects(recognition_result_ptr));

@@ -168,7 +168,7 @@ namespace recognizer_prediction_ism
     void writeObjectConstellationToXML(std::vector<ISM::ObjectPtr> &objects, int sceneRecogCount, int constellation_count);
 
     void filterIncompleteRR(std::vector<ISM::RecognitionResultPtr> &recognition_results);
-    void sortBestRRperScene();
+    void sortBestRRperScene(std::stringstream& output);
     void deleteAllNewRR();
 
   };
