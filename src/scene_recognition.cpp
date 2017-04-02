@@ -79,7 +79,6 @@ SceneRecognition::SceneRecognition(std::vector<ISM::RecognitionResultPtr>& resul
     ph.getParam<string>("rotationObjectType", &rotation_object_type_, "");
     ph.getParam<string>("rotationObjectId", &rotation_object_id_, "");
 
-    ph.getParam<double>("step", &step_, 0.1);
     ph.getParam<string>("baseFrame", &base_frame_, "/map");
     ph.getParam<string>("sceneMarkersSceneRecognitionPublisherName", &scene_markers_publisher_name_, "");
     ph.getParam<string>("vizSamplesClientName", &viz_samples_client_name_, "");
