@@ -88,9 +88,6 @@ private:
     dynamic_reconfigure::Server<asr_recognizer_prediction_ism::pose_predictionConfig>* reconfigure_server_;
     void dynamicReconfCallback(asr_recognizer_prediction_ism::pose_predictionConfig &config, uint32_t level);
 
-    bool processToggleVisualizationServiceCall(std_srvs::Empty::Request &req, std_srvs::Empty::Response & res);
-    bool processTogglePosePredictorServiceCall(std_srvs::Empty::Request &req, std_srvs::Empty::Response & res);
-
     /* ----------------- Visualization attributes------------------  */
     bool is_visualization_active_;
     VIZ::PosePredictionVisualizerPtr pose_prediction_visualizer_ptr_;
