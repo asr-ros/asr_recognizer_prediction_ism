@@ -1,7 +1,7 @@
 ########################### Scene Recognition ###########################
 #Sqlite DB, containing recorded object configurations that are transformed to model object configurations in an ism tree during ism learning in this node.
 # uncomment the following line and add your desired database PATH and DBNAME.
-dbfilename: /home/heller/kinetic_ws/DB/spuelkorb_3_rotated_normalized_map.sqlite
+#dbfilename: PATH/DBNAME.sqlite
 
 #Which rater to rate/score an recognition result should be used.
 #0 = SimpleRater: conisders only if certain conditions are met and rate it with 1 if conditions are met else with 0. 
