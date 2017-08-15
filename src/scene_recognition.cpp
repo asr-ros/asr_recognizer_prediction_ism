@@ -98,7 +98,7 @@ SceneRecognition::SceneRecognition(std::vector<ISM::RecognitionResultPtr>& resul
     /* ----------------- ism initialization ------------------  */
 
     table_helper_ = TableHelperPtr(new TableHelper(database_filename_));
-    recognizer_ = RecognizerPtr(new Recognizer(database_filename_, bin_size_, max_projection_angle_deviation_, true, rater_type_));
+    recognizer_ = RecognizerPtr(new Recognizer(database_filename_, bin_size_, max_projection_angle_deviation_, false, rater_type_));
     converter = ObjectConverterPtr(new ObjectConverter(base_frame_, false, false, enable_rotation_mode_, rotation_frame_, rotation_object_type_, rotation_object_id_, false));
 
     ROS_INFO("SceneRecognition: Initialized recognizer from ism_lib.");
