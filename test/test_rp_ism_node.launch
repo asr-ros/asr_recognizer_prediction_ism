@@ -3,8 +3,8 @@
              value="$(find asr_recognizer_prediction_ism)/launch/rosconsole.config"/>
         <node name="rp_ism_node" pkg="asr_recognizer_prediction_ism" type="rp_ism_node" output="screen">
             <rosparam file="$(find asr_recognizer_prediction_ism)/test/test_properties.yaml"/>
-            <rosparam file="$(find asr_ism)/launch/helpers/sqlitedb.yaml"/>
-            <rosparam file="$(find asr_ism)/launch/helpers/visualization.yaml"/>
-            <rosparam file="$(find asr_ism)/launch/helpers/sensitivity.yaml" />        
+            <rosparam file="$(find asr_ism)/param/sqlitedb.yaml"/>
+            <rosparam file="$(find asr_ism)/param/visualization.yaml"/>
+            <rosparam file="$(find asr_ism)/param/sensitivity.yaml" />        
         </node>
 </launch>
