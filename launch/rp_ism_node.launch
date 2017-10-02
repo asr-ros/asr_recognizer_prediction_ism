@@ -2,7 +2,7 @@
         <env name="ROSCONSOLE_CONFIG_FILE"
              value="$(find asr_recognizer_prediction_ism)/log/rosconsole.config"/>
         <node name="rp_ism_node" pkg="asr_recognizer_prediction_ism" type="rp_ism_node" output="screen">
-            <rosparam file="$(find asr_recognizer_prediction_ism)/launch/helpers/scene_recognition.yaml"/>
-            <rosparam file="$(find asr_recognizer_prediction_ism)/launch/helpers/pose_prediction.yaml" />
+            <rosparam file="$(find asr_recognizer_prediction_ism)/param/scene_recognition.yaml"/>
+            <rosparam file="$(find asr_recognizer_prediction_ism)/param/pose_prediction.yaml" />
         </node>
 </launch>
