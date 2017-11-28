@@ -1,7 +1,7 @@
 ########################### Scene Recognition ###########################
 #Sqlite DB, containing recorded object configurations that are transformed to model object configurations in an ism tree during ism learning in this node.
 # uncomment the following line and add your desired database PATH and DBNAME.
-dbfilename:  /home/SMBAD/students/fmarek/Dokumente/TrainingResults/TrainingResults/spuelkorb_2_rotated_normalized_map_new.sqlite
+#dbfilename: PATH/DBNAME.sqlite
 #Which rater to rate/score an recognition result should be used.
 #0 = SimpleRater: conisders only if certain conditions are met and rate it with 1 if conditions are met else with 0. 
 #1 = APORater: consider appearance, position and orientation for the rating. The score/rate is in [0,1].
