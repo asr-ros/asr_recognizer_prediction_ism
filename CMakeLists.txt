@@ -103,6 +103,7 @@ add_dependencies(rp_ism_node
     ${PROJECT_NAME}_gencpp
     ${PROJECT_NAME}_gencfg
     asr_world_model_gencpp
+    asr_msgs_generate_messages_cpp
     ism
     asr_lib_pose_prediction_ism
 )
