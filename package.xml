@@ -3,9 +3,9 @@
   <name>asr_recognizer_prediction_ism</name>
   <version>1.0.0</version>
   <description>
-    This package contains a combination of pose prediction and ISM. 
-    It provides a (sevice) interface for the ism scene detection and visualization and contains the pose prediction logic for ISM scene detection.
-    The reason to combine those modules in this package was to avoid creating ROS messages from the ISM classes. It enables us to easily copy ISM scene detection results to the pose prediction.
+    This package includes the algorithmic link between object pose prediction and scene recognition, both based on ISM trees. While it only refers to other packages with respect to the aforementioned
+    functionalities, it includes the algorithms realizing Scene Model Sampling. E.g., it provides a (service-based) interface for the scene recognition, including an ASR-optimized visualization of ISM trees.
+    The reason for linking scene recognition and object pose prediction within a package instead of message passing, is the size and number of scene recognition results occurring.
   </description>
   <author>Aumann Florian, Heller Florian, Hutmacher Robin, Meißner Pascal, Stöckle Patrick, Stroh Daniel</author>
   <maintainer email="asr-ros@lists.kit.edu">Meißner Pascal</maintainer>
